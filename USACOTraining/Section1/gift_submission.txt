@@ -1,0 +1,78 @@
+USER: Jay Ha [jay.dct1]
+TASK: gift1
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+  > Run 1: Execution error: Your program did not produce an answer
+        that was judged as correct. The program stopped at 0.004 seconds;
+        it used 1412 KB of memory. At character number 1, your answer says
+        'L' while the correct answer says 'm'. 
+
+        Here are the respective outputs:
+        ----- our output ---------
+        mitnik_2923
+        Poulsen_557
+        Tanner_128
+        Stallman_-311
+        Ritchie_-1777
+        Baran_245
+        Spafford_-1997
+        Farmer_440
+        Venema_391
+        Linus_-599
+        ---- your output ---------
+        Linus_-599
+        Venema_391
+        Spafford_-1997
+        Baran_245
+        Farmer_440
+        Ritchie_-1777
+        Tanner_128
+        Poulsen_557
+        Stallman_-311
+        mitnik_2923
+        --------------------------
+
+        ------ Data for Run 1 [length=428 bytes] ------
+        10 
+        mitnik 
+        Poulsen 
+        Tanner 
+        Stallman 
+        Ritchie 
+        Baran 
+        Spafford 
+        Farmer 
+        Venema 
+        Linus 
+        mitnik 
+        300 3 
+        Poulsen 
+        Tanner 
+        Baran 
+        Poulsen 
+        1000 1 
+        Tanner 
+        Spafford 
+        2000 9 
+        mitnik 
+        Poulsen 
+        Tanner 
+        Stallman 
+        Ritchie 
+        Baran 
+        Farmer 
+        Venema 
+        Linus 
+        Tanner 
+
+        ... [and more] ...
+        ----------------------------
+    Test 1: BADCHECK 0.004 (0.004 secs, 1412 KB)
+
+Full Test Data    Full USACO Answer
+Read this if your program works on your computer but not the grader. Do not write a letter to the coaches until you have tried these techniques!
+Thanks for your submission!

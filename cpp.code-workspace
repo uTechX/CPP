@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"projectManager.git.baseFolders": [
+			"https://github.com/uTechX/CPP.git"
+		]
+	}
+}

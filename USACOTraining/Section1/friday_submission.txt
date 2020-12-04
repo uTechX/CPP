@@ -1,0 +1,42 @@
+USER: Jay Ha [jay.dct1]
+TASK: friday
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.004 secs, 1352 KB]
+   Test 2: TEST OK [0.004 secs, 1408 KB]
+   Test 3: TEST OK [0.004 secs, 1344 KB]
+   Test 4: TEST OK [0.004 secs, 1344 KB]
+   Test 5: TEST OK [0.004 secs, 1404 KB]
+   Test 6: TEST OK [0.004 secs, 1360 KB]
+   Test 7: TEST OK [0.004 secs, 1372 KB]
+   Test 8: TEST OK [0.004 secs, 1372 KB]
+
+All tests OK.
+YOUR PROGRAM ('friday') WORKED FIRST TIME!  That's fantastic
+-- and a rare thing.  Please accept these special automated
+congratulations.
+
+Here are the test data inputs:
+
+------- test 1 [length 2 bytes] ----
+1
+------- test 2 [length 2 bytes] ----
+2
+------- test 3 [length 2 bytes] ----
+5
+------- test 4 [length 3 bytes] ----
+13
+------- test 5 [length 3 bytes] ----
+45
+------- test 6 [length 4 bytes] ----
+100
+------- test 7 [length 4 bytes] ----
+256
+------- test 8 [length 4 bytes] ----
+400
+Keep up the good work!
+Thanks for your submission!

@@ -1,0 +1,54 @@
+USER: Jay Ha [jay.dct1]
+TASK: beads
+LANG: C++
+
+Compiling...
+Compile: OK
+
+Executing...
+   Test 1: TEST OK [0.004 secs, 1344 KB]
+   Test 2: TEST OK [0.004 secs, 1352 KB]
+   Test 3: TEST OK [0.004 secs, 1348 KB]
+   Test 4: TEST OK [0.004 secs, 1400 KB]
+   Test 5: TEST OK [0.004 secs, 1348 KB]
+   Test 6: TEST OK [0.000 secs, 1360 KB]
+   Test 7: TEST OK [0.004 secs, 1372 KB]
+   Test 8: TEST OK [0.004 secs, 1348 KB]
+   Test 9: TEST OK [0.004 secs, 1352 KB]
+
+All tests OK.
+YOUR PROGRAM ('beads') WORKED FIRST TIME!  That's fantastic
+-- and a rare thing.  Please accept these special automated
+congratulations.
+
+Here are the test data inputs:
+
+------- test 1 [length 33 bytes] ----
+29
+wwwbbrwrbrbrrbrbrwrwwrbwrwrrb
+------- test 2 [length 6 bytes] ----
+3
+rrr
+------- test 3 [length 81 bytes] ----
+77
+rwrwrwrwrwrwrwrwrwrwrwrwbwrwbwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrwr
+------- test 4 [length 21 bytes] ----
+17
+wwwwwwwwwwwwwwwww
+------- test 5 [length 54 bytes] ----
+50
+bbrrrbrrrrrrrrbrbbbrbrrbrrrrbbbrbrbbbbbrbrrrbbrbbb
+------- test 6 [length 11 bytes] ----
+8
+rrwwwwbb
+------- test 7 [length 205 bytes] ----
+200
+rrrrrrrrrrrrrrrrrrrrbbbbbbbbbbbbbbbbbbbbrrrrrrrrrrrrrrrrrrrrbbbbbbbbbbbbbbbbbbbbrrrrrrrrrrrrrrrrrrrrbbbbbbbbbbbbbbbbbbbbrrrrrrrrrrrrrrrrrrrrbbbbbbbbbbbbbbbbbbbbrrrrrrrrrrrrrrrrrrrrbbbbbbbbbbbbbbbbbbbb
+------- test 8 [length 355 bytes] ----
+350
+rrbbrbbbwbwwbwbbbbwwrrbbwbrwbrwbbbrbrwrwbrwwwrrbbrrwrbbrwbwrwwwrbrwwwwwrwbwwwrrbrrbbbrbrbbbrbbbrbbwbbbbbrbrrbrwwbrrrrwbwrwrbbwbwrbrbrwwbrrbwbrwwbwwwbrbwrwbwbrbbbwrbwwrrrbwbwbbbbbrrwwwrbrwwrbbwrbbrbbrbwrrwwbrrrbrwbrwwrbwbwrrrbwrwrrbrbbwrwrbrwwwrwbwrrwwwwrrrwrrwbbwrwwrwrbwwbwrrrrbbwrbbrbwwwwwbrbbrbbrbrwbbwbwwbbbbbwwwrbwwbbbwrwwbbrrwrwbwrrwwwrrrwrrwww
+------- test 9 [length 338 bytes] ----
+333
+rwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwbrwb
+Keep up the good work!
+Thanks for your submission!
