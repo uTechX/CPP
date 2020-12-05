@@ -10,8 +10,10 @@ int main(void)
  
     //1. char[] 문자열 쓰기
     char arr[11] = "BlockDMask";    //"BlockDMask\0"
-    writeFile.write(arr, 10);
+    writeFile.write(arr, sizeof(arr)-1);
+    cout << sizeof(arr);
  
+
     //2. string 문자열 쓰기
     string str = " is handsome.";
     writeFile.write(str.c_str(), str.size());

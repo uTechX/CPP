@@ -17,6 +17,8 @@ int main(void)
   }
   cout << " File open OK \n";
 
+
+
 /*
 // 파일에서 문자 하나씩 읽기
   char filechar;

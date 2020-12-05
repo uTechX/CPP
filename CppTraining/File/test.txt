@@ -1,5 +1,1 @@
-BlockDMask
-
-is
-
-handsome.
+BlockDMask is handsome.
