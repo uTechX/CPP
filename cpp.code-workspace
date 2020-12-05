@@ -7,6 +7,9 @@
 	"settings": {
 		"projectManager.git.baseFolders": [
 			"https://github.com/uTechX/CPP.git"
-		]
+		],
+		"files.associations": {
+			"iostream": "cpp"
+		}
 	}
 }
