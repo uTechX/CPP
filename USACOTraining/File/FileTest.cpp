@@ -31,3 +31,4 @@ int main(void)
     readFile.close();    //파일 닫아줍니다.
     return 0;
 }
+

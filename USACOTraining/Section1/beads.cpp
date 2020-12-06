@@ -5,6 +5,8 @@ TASK: beads
 LANG: C++
 */
 
+//https://jaykaychoi.tistory.com/12?category=561047
+
 #include <iostream>
 #include <fstream>
 #include <string>

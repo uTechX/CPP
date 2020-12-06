@@ -4,6 +4,7 @@ NAME: Friday the Thirteenth
 PROG: friday 
 LANG: C++
 */
+//https://jaykaychoi.tistory.com/11?category=561047
 
 #include <iostream>
 #include <fstream>

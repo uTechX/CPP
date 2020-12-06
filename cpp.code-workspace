@@ -9,7 +9,9 @@
 			"https://github.com/uTechX/CPP.git"
 		],
 		"files.associations": {
-			"iostream": "cpp"
+			"iostream": "cpp",
+			"string": "cpp",
+			"sstream": "cpp"
 		}
 	}
 }
