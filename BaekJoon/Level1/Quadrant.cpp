@@ -18,33 +18,20 @@ int main(void)
 
 // Input 
 #ifdef _FILE_INPUT_
-  
+    // File Open
     ifstream fin ("Quadrant.in");
     ofstream fout("Quadrant.out");
    
-
     if(!fin.is_open())
     {
         cout << " File open Error" << endl;
         exit(0);
     }
-
+    // File input
     fin >> a >> b;
 
-    /*
-    if (a != 0 && b != 0)
-    {
-        if (a > 0)
-            result = ( b > 0 ? 1 : 4);         
-        else if (a < 0)      
-            fout << (b > 0 ? 2 : 3);
-    }
-    else
-    {
-        result =  -1;
-    }
-    */
 #else
+    // Key Input
     scanf("%d", &a);
     scanf("%d", &b);
 #endif
@@ -65,8 +52,10 @@ int main(void)
 
 // Output
 #ifdef _FILE_INPUT_
+    // File Output
     fout << result;
 #else
+    // Screen Ouptput
     printf("%d\n", result);
 #endif
  
