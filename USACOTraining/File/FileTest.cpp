@@ -6,11 +6,11 @@ using namespace std;
 int main(void)
 {
     ifstream readFile;
-    readFile.open("ride.in");    //파일 열기
+    readFile.open("filetest.in");    //파일 열기
  
     if (!readFile.is_open())
     {
-        cout << " File open Error";
+        cout << " File open Error" << endl;
         exit(0);
     }
     while (!readFile.eof())

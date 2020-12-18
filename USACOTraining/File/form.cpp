@@ -13,8 +13,15 @@ LANG: C++
 using namespace std;
 
 int main() {
-    ofstream fout ("test.out");
-    ifstream fin ("test.in");
+    ofstream fout ("form.out");
+    ifstream fin ("form.in");
+
+    if(!fin.is_open())
+    {
+        cout << " File open Error" << endl;
+        exit(0);
+    }
+
     int a, b;
     fin >> a >> b;
     fout << a+b << endl;
