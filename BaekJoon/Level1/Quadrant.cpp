@@ -12,10 +12,6 @@ using namespace std;
 
 int main(void)
 {
-    int a = 0;
-    int b = 0;
-    int result = 0;
-
 // Input 
 #ifdef _FILE_INPUT_
     // File Open
@@ -37,6 +33,9 @@ int main(void)
 #endif
 
 // Alogrithm Body
+    int a = 0;
+    int b = 0;
+    int result = 0;
 
     if (a != 0 && b != 0)
     {

@@ -5,17 +5,16 @@ using namespace std;
 
 int main()
 {
-    string InputWord;
-    char cInputWord[1001];
-    int AlphabtTabel[26] = {0, };
+    string sInputWord;
+    char caInputWord[1001];
+//    int AlphabtTabel[26] = {0, };
 
     //cin >> InputWord;
-    scanf("%s", cInputWord);
+    scanf("%s", caInputWord);
 
-    for(int i=0; cInputWord[i] != '\0'; i++)
-        if(cInputWord[i] >= 'a')
-            cInputWord[i] = cInputWord[i] - 32;
-
+    for(int i=0; caInputWord[i] != '\0'; i++)
+        if(caInputWord[i] >= 'a')
+            caInputWord[i] = caInputWord[i] - 32;
 
     /*
     //char IndexChar;
@@ -30,9 +29,6 @@ int main()
         }
     }
     */     
- 
 
-    cout << cInputWord << endl;
-
-
+    cout << caInputWord << endl;
 }

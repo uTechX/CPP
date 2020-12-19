@@ -17,6 +17,7 @@ int main()
 {
     ofstream fout("gift1.out");
     ifstream fin("gift1.in");
+    
     int NP;
     unordered_map<string, int> members;
     fin >> NP;
